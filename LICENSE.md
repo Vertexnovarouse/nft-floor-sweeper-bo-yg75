@@ -1,4 +1,4 @@
-# 
+# custom NFT Scanner for nft floor sweeper bot | slippage-control & auto-sell offers the most advanced nft floor sweeper bot, with slippage-control and auto-sell. Ideal for
 
 
 
